@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ajax484/ExpensesRecorder/static/css/main.f700fe9d.chunk.css",
+    "main.js": "/ajax484/ExpensesRecorder/static/js/main.11c33b18.chunk.js",
+    "main.js.map": "/ajax484/ExpensesRecorder/static/js/main.11c33b18.chunk.js.map",
+    "runtime-main.js": "/ajax484/ExpensesRecorder/static/js/runtime-main.b7180d4a.js",
+    "runtime-main.js.map": "/ajax484/ExpensesRecorder/static/js/runtime-main.b7180d4a.js.map",
+    "static/js/2.2a623ff0.chunk.js": "/ajax484/ExpensesRecorder/static/js/2.2a623ff0.chunk.js",
+    "static/js/2.2a623ff0.chunk.js.map": "/ajax484/ExpensesRecorder/static/js/2.2a623ff0.chunk.js.map",
+    "index.html": "/ajax484/ExpensesRecorder/index.html",
+    "static/css/main.f700fe9d.chunk.css.map": "/ajax484/ExpensesRecorder/static/css/main.f700fe9d.chunk.css.map",
+    "static/js/2.2a623ff0.chunk.js.LICENSE.txt": "/ajax484/ExpensesRecorder/static/js/2.2a623ff0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7180d4a.js",
+    "static/js/2.2a623ff0.chunk.js",
+    "static/css/main.f700fe9d.chunk.css",
+    "static/js/main.11c33b18.chunk.js"
+  ]
+}
