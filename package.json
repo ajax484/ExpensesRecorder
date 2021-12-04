@@ -2,7 +2,7 @@
   "name": "react-wiki",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ajax484/expenseRecord",
+  "homepage": "https://ajax484.github.io/ExpensesRecorder/",
   "dependencies": {
     "@popperjs/core": "^2.10.2",
     "@testing-library/jest-dom": "^5.15.1",
